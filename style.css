@@ -1,0 +1,55 @@
+.secondbackground {
+    background-color: black;
+    position: fixed;
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    margin-top: 0px;
+}
+
+.contentofthebackground {
+    width: 500px;
+    height: 600px;
+    margin: 100px;
+    background-color: white;
+
+}
+
+#leftheading {
+    float: left;
+    width: 45px;
+}
+
+#middleheading {
+    width: 100px;
+    float: left;
+}
+
+#rightheading {
+    float: right;
+    padding-right: 5px;
+    padding-top: 15px;
+}
+#leftimage{
+    float: left;
+    width: 45px;
+}
+#secondimage{
+    float: left;
+    width: 45px;
+}
+#thirdimage{
+    float: left;
+    width: 45px;
+}
+#rightimage{
+    float: right;
+    width:350px;
+    padding-right: 15px;
+    text-align: right;
+}
+.finalparagraph{
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
